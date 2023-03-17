@@ -1,7 +1,6 @@
 package classobjectmethod;
 
 public class House { //class is a blueprint
-	//class is a blueprint
 	
 	//class propertie
 	//variables
